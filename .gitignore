@@ -1,0 +1,4 @@
+bin/
+obj/
+*.log
+audit_logs/
